@@ -1,0 +1,7 @@
+Model: https://fal.ai/models/fal-ai/flux-pro/v1.1-ultra/playground
+Prompt:
+
+Illustration of the owl <does something>…
+
+The owl has bright blue glowing eyes that illuminate its warm, golden-brown fur. It wears a dark blue hoodie, simple in design, with its ears poking through. The underbelly and facial feathers are a lighter, honey-brown. Its wings, when spread, show a gradient from golden-brown to burnt orange. To keep the look natural and not AI-generated, we avoid overly precise details, focusing instead on the overall impression of warmth and simplicity, with the colors blending seamlessly.
+Don't use words in the illustration, only numbers, symbols and graphs related to investments and cryptocurrencies.
